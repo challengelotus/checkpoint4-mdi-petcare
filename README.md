@@ -80,12 +80,12 @@ Antes de começar, verifique se você possui instalado em sua máquina:
 
 1.  **Clone o repositório**
     ```bash
-    git clone https://github.com/seu-usuario/petin-app.git
+    git clone https://github.com/challengelotus/checkpoint4-mdi-petin
     ```
 
 2.  **Acesse a pasta do projeto**
     ```bash
-    cd petin-app
+    cd checkpoint4-mdi-petin
     ```
 
 3.  **Instale as dependências do projeto**
