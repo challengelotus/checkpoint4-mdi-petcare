@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="assets/logo-petcare.png" alt="Logo PetCare" width="200"/>
-  <h1>🐾 PetCare</h1>
+  <img src="assets/logo-petin.png" alt="Logo Petin" width="200"/>
+  <h1>🐾 Petin</h1>
   <p><em>Saúde e carinho em cada patinha</em></p>
   <p>
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
     <img src="https://img.shields.io/badge/JSON_Server-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON Server"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
@@ -18,11 +19,11 @@
 
 ## 📝 Descrição do Projeto
 
-**PetCare** é um aplicativo mobile desenvolvido em **React Native** que tem como missão transformar a forma como os tutores cuidam da saúde dos seus pets. 
+**Petin** é um aplicativo mobile desenvolvido em **React Native** que tem como missão transformar a forma como os tutores cuidam da saúde dos seus pets. 
 
 Atualmente, o gerenciamento de vacinas, consultas e rotina de medicamentos é feito de forma dispersa: carteirinhas de vacinação são perdidas, datas de reforço são esquecidas e o histórico veterinário fica restrito à memória do tutor. 
 
-O **PetCare** resolve isso centralizando tudo em um único lugar, com lembretes inteligentes e a possibilidade de compartilhar o prontuário do pet com o veterinário em tempo real. Nosso objetivo é garantir que nenhum pet fique sem sua dose de carinho e cuidado.
+O **Petin** resolve isso centralizando tudo em um único lugar, com lembretes inteligentes e a possibilidade de compartilhar o prontuário do pet com o veterinário em tempo real. Nosso objetivo é garantir que nenhum pet fique sem sua dose de carinho e cuidado.
 
 ---
 
@@ -31,7 +32,7 @@ O **PetCare** resolve isso centralizando tudo em um único lugar, com lembretes 
 > *As telas abaixo representam a identidade visual do projeto, desenvolvidas no Figma. As funcionalidades estão em fase de implementação.*
 
 <div align="center">
-  <img src="assets/screenshot-demo.png" alt="Demonstração das Telas do PetCare" width="700"/>
+  <img src="assets/screenshot-demo.png" alt="Demonstração das Telas do Petin" width="700"/>
   <p><i>Em breve: GIF animado com a navegação completa do app.</i></p>
 </div>
 
@@ -79,12 +80,12 @@ Antes de começar, verifique se você possui instalado em sua máquina:
 
 1.  **Clone o repositório**
     ```bash
-    git clone https://github.com/seu-usuario/petcare-app.git
+    git clone https://github.com/seu-usuario/petin-app.git
     ```
 
 2.  **Acesse a pasta do projeto**
     ```bash
-    cd petcare-app
+    cd petin-app
     ```
 
 3.  **Instale as dependências do projeto**
@@ -115,7 +116,7 @@ Antes de começar, verifique se você possui instalado em sua máquina:
 
 Após rodar o projeto, você terá acesso à versão inicial do aplicativo:
 
-1.  **Cadastro/Login:** Crie uma conta ou utilize o usuário mockado (ex: `admin@petcare.com` / `123456`).
+1.  **Cadastro/Login:** Crie uma conta ou utilize o usuário mockado (ex: `admin@petin.com` / `123456`).
 2.  **Adicionar Pet:** Clique no botão "+" na tela inicial para cadastrar as informações do seu animal.
 3.  **Registrar Vacina:** Acesse o perfil do pet, vá até a aba "Saúde" e clique em "Adicionar Vacina". Preencha o nome, data de aplicação e próxima dose.
 4.  **Receber Alertas:** Com a notificação habilitada, o app avisará automaticamente quando uma vacina estiver próxima do vencimento.
